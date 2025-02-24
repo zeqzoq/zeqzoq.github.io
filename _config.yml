@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Zeqzoq"
+  name   : "Haziq 'Izzuddin"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "worstctfplayer"
   links:
