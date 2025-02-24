@@ -26,7 +26,9 @@ ASK Pentest Sdn. Bhd.
 * Escalated security incidents based on SIEM warnings and threat analysis.
 * Investigated and responded to security events, ensuring timely mitigation.
 * Conducted log analysis to detect anomalies and potential security breaches.
+
 ---
+
 **IT Specialist** | Practical Trainee
 Universiti Poly-Tech Malaysia
 * Assisted students and staff with technical issues
@@ -36,14 +38,18 @@ Universiti Poly-Tech Malaysia
 
 ### Education
 
-**Bachelor of Information Technology (HONS) in Computer System Security** | September 2022 - Present
-Universiti Kuala Lumpur Malaysian Institute of Information Technology (MIIT) - Kuala Lumpur, Malaysia
+**Bachelor of Information Technology (HONS) in Computer System Security** | September 2022 - Present<br>
+Universiti Kuala Lumpur Malaysian Institute of Information Technology (MIIT) - Kuala Lumpur, Malaysia<br>
 Current CGPA: 3.8
+
 ---
-**Foundation in Computer Technology** | Graduated August 2022
-Universiti Kuala Lumpur Malaysian Institute of Information Technology (MIIT) - Kuala Lumpur, Malaysia
+
+**Foundation in Computer Technology** | Graduated August 2022<br>
+Universiti Kuala Lumpur Malaysian Institute of Information Technology (MIIT) - Kuala Lumpur, Malaysia<br>
 CGPA: 3.83
+
 ---
+
 **Electrical and Electronic Engineering** | Graduated 2021
 Maktab Rendah Sains MARA (MRSM )Bentong - Pahang, Malaysia
 Sijil Pelajaran Malaysia (SPM): 7A 3B
