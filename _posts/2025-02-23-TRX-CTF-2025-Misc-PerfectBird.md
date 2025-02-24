@@ -28,7 +28,8 @@ Played this CTF together with RE:UN10N Malaysia members. This CTF is really hard
 ---
 
 ### Perfect Bird
-<br><img src="/assets/images/trx25/flag.png" alt="">
+
+<img src="/assets/images/trx25/flag.png" alt="">
 **Description:**<br>
 As a <var>bird</var> soaring through the sky, you seek the <var>perfect language</var>, and then... you find this
 
