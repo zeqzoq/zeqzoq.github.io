@@ -23,7 +23,6 @@ Played this CTF together with Re:UN10N Malaysia members. This one particular cha
 
 ## Forensics
 
-
 ---
 
 ### Deep Blue Sea

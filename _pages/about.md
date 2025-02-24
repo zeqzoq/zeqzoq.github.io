@@ -15,7 +15,7 @@ Seri Kembangan, Selangor, Malaysia
 
 ---
 
-I'm a dedicated cybersecurity student currently in my final year at [UniKL MIIT](https://miit.unikl.edu.my/), pursuing a Bachelor’s degree in Computer System Security. I am a Cybersecurity student with hands-on experience in SOC operations and IT support. Passionate about offensive and defensive security, with a good foundation in ethical hacking, digital forensics, and incident response. Demonstrated problem-solving abilities through CTF competitions. Currently pursuing a Bachelor’s degree in Computer System Security at Universiti Kuala Lumpur, complemented by industry-recognized certifications, including CompTIA Security+ and ethical hacking coursework. Enthusiastic about contributing to the cybersecurity community and continuously expanding expertise in cybersecurity realms.
+> I'm a dedicated cybersecurity student currently in my final year at [UniKL MIIT](https://miit.unikl.edu.my/), pursuing a Bachelor’s degree in Computer System Security. I am a Cybersecurity student with hands-on experience in SOC operations and IT support. Passionate about offensive and defensive security, with a good foundation in ethical hacking, digital forensics, and incident response. Demonstrated problem-solving abilities through CTF competitions. Currently pursuing a Bachelor’s degree in Computer System Security at Universiti Kuala Lumpur, complemented by industry-recognized certifications, including CompTIA Security+ and ethical hacking coursework. Enthusiastic about contributing to the cybersecurity community and continuously expanding expertise in cybersecurity realms.
 
 ## Experience
 
