@@ -19,59 +19,34 @@ I'm a dedicated cybersecurity student currently in my final year at [UniKL MIIT]
 
 ### Experience
 
-<table>
-  <tr>
-    <td>
-      <b>SOC Analyst</b> | Internship<br />
-      ASK Pentest Sdn. Bhd.<br />
-      <ul>
-        <li>Monitored client network traffic and security alerts using QRadar SIEM.</li>
-        <li>Assisted in analyzing malware samples and identifying potential threats.</li>
-        <li>Escalated security incidents based on SIEM warnings and threat analysis.</li>
-        <li>Investigated and responded to security events, ensuring timely mitigation.</li>
-        <li>Conducted log analysis to detect anomalies and potential security breaches.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>IT Specialist</b> | Practical Trainee<br />
-      Universiti Poly-Tech Malaysia<br />
-      <ul>
-        <li>Assisted students and staff with technical issues</li>
-        <li>Configured, maintained and troubleshot network and hardware issues</li>
-        <li>Resolved website and server-related problems</li>
-        <li>Provided technical support for meetings and smartboard demonstrations.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**SOC Analyst** | Internship
+ASK Pentest Sdn. Bhd.
+* Monitored client network traffic and security alerts using QRadar SIEM.
+* Assisted in analyzing malware samples and identifying potential threats.
+* Escalated security incidents based on SIEM warnings and threat analysis.
+* Investigated and responded to security events, ensuring timely mitigation.
+* Conducted log analysis to detect anomalies and potential security breaches.
+---
+**IT Specialist** | Practical Trainee
+Universiti Poly-Tech Malaysia
+* Assisted students and staff with technical issues
+* Configured, maintained and troubleshot network and hardware issues
+* Resolved website and server-related problems
+* Provided technical support for meetings and smartboard demonstrations.
 
 ### Education
 
-<table>
-  <tr>
-    <td>
-      <b>Bachelor of Information Technology (HONS) in Computer System Security</b> | September 2022 - Present<br />
-      Universiti Kuala Lumpur Malaysian Institute of Information Technology (MIIT) - Kuala Lumpur, Malaysia<br />
-      Current CGPA: 3.8
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Foundation in Computer Technology</b> | Graduated August 2022<br />
-      Universiti Kuala Lumpur Malaysian Institute of Information Technology (MIIT) - Kuala Lumpur, Malaysia<br />
-      CGPA: 3.83
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Electrical and Electronic Engineering</b> | Graduated 2021<br />
-      Maktab Rendah Sains MARA (MRSM )Bentong - Pahang, Malaysia<br />
-      Sijil Pelajaran Malaysia (SPM): 7A 3B
-    </td>
-  </tr>
-</table>
+**Bachelor of Information Technology (HONS) in Computer System Security** | September 2022 - Present
+Universiti Kuala Lumpur Malaysian Institute of Information Technology (MIIT) - Kuala Lumpur, Malaysia
+Current CGPA: 3.8
+---
+**Foundation in Computer Technology** | Graduated August 2022
+Universiti Kuala Lumpur Malaysian Institute of Information Technology (MIIT) - Kuala Lumpur, Malaysia
+CGPA: 3.83
+---
+**Electrical and Electronic Engineering** | Graduated 2021
+Maktab Rendah Sains MARA (MRSM )Bentong - Pahang, Malaysia
+Sijil Pelajaran Malaysia (SPM): 7A 3B
 
 ### Competitions & Achievements
 
