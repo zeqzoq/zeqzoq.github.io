@@ -17,7 +17,7 @@ toc_icon: "list"
 
 <img src="/assets/images/platypwn24/flag.png" alt="">
 
-PLayed this CTF together with Re:UN10N Malaysia. This one particular challenge is hard to solve (for me at that time atleast)
+Played this CTF together with Re:UN10N Malaysia members. This one particular challenge is hard to solve (for me at that time atleast).
 
 ---
 
@@ -37,7 +37,7 @@ PP{f1L3_F0rm4t5_4r3_a_Tr345uR3_tR0v3}
 
 They gave `treasure-map.ora` file
 
-Make a Bbasic research about .ora and what is it.
+Make a basic research about .ora and what is it.
 
 <img src="/assets/images/platypwn24/image1.png" alt="">
 
@@ -67,11 +67,11 @@ By using stegsolve's red plane on layer0.png we can see dots map on the image.
 
 Then after trying everything I can, I take a look back at the intentionally long challenge description. The challenge description mentions about "treasure map" and "marked with blots of crimson ink" which I already get. It said "biggest treasure" which I assume the flag can only be obtain if all of them discovered. After a while (one whole day) it got me thinking that the flag maybe scattered one the dots. So to find the location of the dots on the image, we can use coordinates. So I planned to extract the coordinates from layer0.png and map it to layer1.png. The mapping and extracting the "biggest treasure" not only need to use coordinates but need to use pixel value too. So we will be extracting blue channel RGB pixel value.
 
-Then give my idea to chatGPT to get the script because I'm not good at coding, and refine it myself and got this:
+Then gave my idea to chatGPT to get the script because I'm not good at coding, and refine it myself and got this:
 
 <img src="/assets/images/platypwn24/image3.png" alt="">
 
-I dont have the initial code is gone but I got the final code without visualise mapping:
+The initial code is gone but I got the final code without visualise mapping:
 
 ```python
 from PIL import Image
