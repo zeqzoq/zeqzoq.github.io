@@ -17,7 +17,7 @@ Seri Kembangan, Selangor, Malaysia
 
 I'm a dedicated cybersecurity student currently in my final year at [UniKL MIIT](https://miit.unikl.edu.my/), pursuing a Bachelor’s degree in Computer System Security. I am a Cybersecurity student with hands-on experience in SOC operations and IT support. Passionate about offensive and defensive security, with a good foundation in ethical hacking, digital forensics, and incident response. Demonstrated problem-solving abilities through CTF competitions. Currently pursuing a Bachelor’s degree in Computer System Security at Universiti Kuala Lumpur, complemented by industry-recognized certifications, including CompTIA Security+ and ethical hacking coursework. Enthusiastic about contributing to the cybersecurity community and continuously expanding expertise in cybersecurity realms.
 
-### Experience
+## Experience
 
 **SOC Analyst** | Internship
 ASK Pentest Sdn. Bhd.
@@ -36,7 +36,7 @@ Universiti Poly-Tech Malaysia
 * Resolved website and server-related problems
 * Provided technical support for meetings and smartboard demonstrations.
 
-### Education
+## Education
 
 **Bachelor of Information Technology (HONS) in Computer System Security** | September 2022 - Present<br>
 Universiti Kuala Lumpur Malaysian Institute of Information Technology (MIIT) - Kuala Lumpur, Malaysia<br>
@@ -54,14 +54,14 @@ CGPA: 3.83
 Maktab Rendah Sains MARA (MRSM )Bentong - Pahang, Malaysia
 Sijil Pelajaran Malaysia (SPM): 7A 3B
 
-### Competitions & Achievements
+## Competitions & Achievements
 
 - **First Place** – Internal CTF UniKL MIIT 2023
 - **Seventh Place** – International Battle of Hackers 2024 (Local Category)
 - **Second Place** – CurtinCTF 2024
 - **Fourth Place** – SherpaCTF Open Category
 
-### Certificates
+## Certificates
 
 <ul>
     <li>CompTIA Security+ (SY0-601)</li>
@@ -70,7 +70,7 @@ Sijil Pelajaran Malaysia (SPM): 7A 3B
     <li>Completed Online Courses from platforms such as Cisco on topics including Ethical Security and Cybersecurity</li>
 </ul>
 
-### Relevant Online Courses
+## Relevant Online Courses
 
 <ul>
     <li>Offensive Hacking Unfolded - The Beginner's Edition - ComproAvi School</li>
@@ -82,7 +82,7 @@ Sijil Pelajaran Malaysia (SPM): 7A 3B
     <li>Windows Forensics with Belkasoft - Belkasoft</li>
 </ul>
 
-### Languages
+## Languages
 
 <ul>
     <li>English (Fluent)</li>
